@@ -29,6 +29,6 @@
     <h1>Un año juntos</h1>
     <h2>Gracias por tanto, te amo.</h2>
     <p style="text-align: center;">Escaneame :D:</p>
-    <img src="https://github.com/bastian15512/Abby/raw/main/captura.png" alt="Escaneame">
+    <img src="https://github.com/bastian15512/Abby/raw/main/Captura.PNG" alt="Escaneame">
 </body>
 </html>
